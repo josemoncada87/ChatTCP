@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="co.edu.dmi.monk.ejemploaplicacionlogin" >
+    package="co.edu.dmi.monk.ejemploclientechatandroid" >
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -11,19 +11,19 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name=".MainActivity" >
+        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ActividadRegistro" >
+        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadRegistro" >
         </activity>
-        <activity android:name=".ActividadMenuPrincipal" />
-        <activity android:name=".ActividadConfiguracion" />
+        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadMenuPrincipal" />
+        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadConfiguracion" />
         <activity
-            android:name=".ActividadChat"
+            android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadChat"
             android:label="@string/title_activity_actividad_chat" >
         </activity>
     </application>

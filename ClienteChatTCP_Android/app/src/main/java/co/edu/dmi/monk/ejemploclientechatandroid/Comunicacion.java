@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploaplicacionlogin;
+package co.edu.dmi.monk.ejemploclientechatandroid;
 
 import android.util.Log;
 
@@ -36,9 +36,9 @@ public class Comunicacion extends Observable implements Runnable {
     }
 
     public static Comunicacion getInstance() {
-        if(ref == null){
-            ref =  new Comunicacion();
-            Thread t =  new Thread(ref);
+        if (ref == null) {
+            ref = new Comunicacion();
+            Thread t = new Thread(ref);
             t.start();
         }
         return ref;
@@ -178,7 +178,7 @@ public class Comunicacion extends Observable implements Runnable {
     }
 
     public void enviar(String msn) {
-        if(s != null) {
+        if (s != null) {
             try {
                 DataOutputStream dos = new DataOutputStream(s.getOutputStream());
                 dos.writeUTF(msn);
@@ -187,7 +187,7 @@ public class Comunicacion extends Observable implements Runnable {
                 //e.printStackTrace();
                 Log.d(TAG, "[ ERROR AL ENVIAR ]");
             }
-        }else{
+        } else {
             setChanged();
             notifyObservers("no_conectado");
             clearChanged();

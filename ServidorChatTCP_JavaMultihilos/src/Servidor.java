@@ -66,7 +66,7 @@ public class Servidor extends Thread implements Observer {
 				ControlCliente controlCliente = iterator.next();
 				controlCliente.enviarMensaje(notificacion);
 				String[] partes = notificacion.split(":");
-				cxmlMensajes.agregarMensaje("NA", partes[1]);
+				cxmlMensajes.agregarMensaje(partes[2], partes[1]);
 			}
 			
 			//System.out.println("[ SE HA IDO UN CLIENTE, QUEDAN: " + clientes.size()+ " ]");

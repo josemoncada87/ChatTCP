@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploaplicacionlogin;
+package co.edu.dmi.monk.ejemploclientechatandroid;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

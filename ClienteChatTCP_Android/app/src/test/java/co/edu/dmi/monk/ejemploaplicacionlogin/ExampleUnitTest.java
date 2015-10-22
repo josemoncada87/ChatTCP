@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploaplicacionlogin;
+package co.edu.dmi.monk.ejemploclientechatandroid;
 
 import org.junit.Test;
 

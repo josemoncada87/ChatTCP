@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.MainActivity"/>
+      <point      
+        x = "1992"      
+        y = "76"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadRegistro"/>
+      <point      
+        x = "2968"      
+        y = "168"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadMenuPrincipal"/>
+      <point      
+        x = "3820"      
+        y = "160"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadConfiguracion"/>
+      <point      
+        x = "1076"      
+        y = "96"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadChat"/>
+      <point      
+        x = "108"      
+        y = "-120"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>

@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploaplicacionlogin;
+package co.edu.dmi.monk.ejemploclientechatandroid;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -20,11 +20,11 @@ public class ActividadMenuPrincipal extends AppCompatActivity {
         TextView usuario = (TextView) findViewById(R.id.tv_txt_usuario_menuPrincipal);
         usuario.setText(usuarioLogeado);
 
-        Button btnIrAlChat =  (Button) findViewById(R.id.btn_ir_alChat);
+        Button btnIrAlChat = (Button) findViewById(R.id.btn_ir_alChat);
         btnIrAlChat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i =  new Intent(getApplicationContext(), ActividadChat.class);
+                Intent i = new Intent(getApplicationContext(), ActividadChat.class);
                 i.putExtra("user", usuarioLogeado);
                 startActivity(i);
             }
