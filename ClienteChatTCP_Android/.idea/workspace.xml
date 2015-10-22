@@ -13,72 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e3d7010-14cb-47fe-9e14-5f6320ff49f5" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadChat$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadChat$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadChat.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadConfiguracion$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadConfiguracion$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadConfiguracion.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadMenuPrincipal$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadMenuPrincipal.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadRegistro$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadRegistro$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadRegistro$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadRegistro$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\ActividadRegistro.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\AdaptadorUsuarios.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\Comunicacion.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\MainActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\MainActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\MainActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\MainActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\Mensaje.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$mipmap.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\classes\debug\co\edu\dmi\monk\ejemploaplicacionlogin\R.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/co/edu/dmi/monk/ejemploclientechatandroid/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/co/edu/dmi/monk/ejemploclientechatandroid/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_chat.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_chat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_chat.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_chat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_configuracion.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_configuracion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_configuracion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_configuracion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_menu_principal.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_menu_principal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_menu_principal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_menu_principal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_registro.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_actividad_registro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_registro.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_actividad_registro.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.navigation/app/raw/main.nvg.xml" afterPath="$PROJECT_DIR$/.navigation/app/raw/main.nvg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/menu_actividad_chat.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/menu_actividad_chat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_actividad_chat.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_actividad_chat.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ServidorChatTCP_JavaMultihilos/data/BD_mensajes.xml" afterPath="$PROJECT_DIR$/../ServidorChatTCP_JavaMultihilos/data/BD_mensajes.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\java\co\edu\dmi\monk\ejemploclientechatandroid\ActividadChat.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/edu/dmi/monk/ejemploclientechatandroid/actividades/ActividadChat.java" />
-      <change type="MOVED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\java\co\edu\dmi\monk\ejemploclientechatandroid\ActividadConfiguracion.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/edu/dmi/monk/ejemploclientechatandroid/actividades/ActividadConfiguracion.java" />
-      <change type="MOVED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\java\co\edu\dmi\monk\ejemploclientechatandroid\ActividadMenuPrincipal.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/edu/dmi/monk/ejemploclientechatandroid/actividades/ActividadMenuPrincipal.java" />
-      <change type="MOVED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\java\co\edu\dmi\monk\ejemploclientechatandroid\ActividadRegistro.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/edu/dmi/monk/ejemploclientechatandroid/actividades/ActividadRegistro.java" />
-      <change type="MOVED" beforePath="D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\java\co\edu\dmi\monk\ejemploclientechatandroid\MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/co/edu/dmi/monk/ejemploclientechatandroid/actividades/MainActivity.java" />
     </list>
     <ignored path="ClienteChatTCP_Android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2069,7 +2005,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445549805286</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Prueba con múltiples dispositivos">
+      <created>1445551222639</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1445551222639</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2150,7 +2092,8 @@
     <MESSAGE value="test Rename package ..." />
     <MESSAGE value="test Rename package" />
     <MESSAGE value="test Rename package and folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="test Rename package and folders" />
+    <MESSAGE value="Prueba con múltiples dispositivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba con múltiples dispositivos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
