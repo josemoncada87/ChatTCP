@@ -42,7 +42,7 @@ public class ControlCliente extends Observable implements Runnable {
 		} finally {
 			s = null;
 		}
-	}
+	} // 
 
 	private void recibirMensajes() throws IOException {
 		DataInputStream dis = new DataInputStream(s.getInputStream());
