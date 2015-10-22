@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-1062e3127420972658c6cc3a0967208b6529928f.jar" />
+    </item>
+    <item
+        jar="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\pre-dexed\debug\classes-75d2f9000a0243c83a6f591a9ed75693c1dc10d2.jar" />
+    </item>
+    <item
+        jar="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\pre-dexed\debug\classes-ae556031a83495115529466e04ae6623cb2618cf.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Semana13\EjemploAplicacionLogin\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-ce5f242bba79c38b083ec9bf47c572b6ad6aec6e.jar" />
+    </item>
+
+</items>
