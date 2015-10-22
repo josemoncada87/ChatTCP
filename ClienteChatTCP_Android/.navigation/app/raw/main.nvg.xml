@@ -6,7 +6,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "co.edu.dmi.monk.ejemploclientechatandroid.MainActivity"/>
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.actividades.MainActivity"/>
       <point      
         x = "1992"      
         y = "76"/>
@@ -14,7 +14,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadRegistro"/>
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadRegistro"/>
       <point      
         x = "2968"      
         y = "168"/>
@@ -22,7 +22,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadMenuPrincipal"/>
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadMenuPrincipal"/>
       <point      
         x = "3820"      
         y = "160"/>
@@ -30,7 +30,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadConfiguracion"/>
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadConfiguracion"/>
       <point      
         x = "1076"      
         y = "96"/>
@@ -38,7 +38,7 @@
     <statePointEntry>
       <state      
         class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
-        className = "co.edu.dmi.monk.ejemploclientechatandroid.ActividadChat"/>
+        className = "co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadChat"/>
       <point      
         x = "108"      
         y = "-120"/>

@@ -1,10 +1,13 @@
-package co.edu.dmi.monk.ejemploclientechatandroid;
+package co.edu.dmi.monk.ejemploclientechatandroid.actividades;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import co.edu.dmi.monk.ejemploclientechatandroid.Comunicacion;
+import co.edu.dmi.monk.ejemploclientechatandroid.R;
 
 public class ActividadConfiguracion extends AppCompatActivity {
 

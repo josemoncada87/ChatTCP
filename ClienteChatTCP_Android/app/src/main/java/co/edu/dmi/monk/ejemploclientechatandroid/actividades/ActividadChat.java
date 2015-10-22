@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploclientechatandroid;
+package co.edu.dmi.monk.ejemploclientechatandroid.actividades;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,6 +14,11 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.Observable;
 import java.util.Observer;
+
+import co.edu.dmi.monk.ejemploclientechatandroid.AdaptadorMensajes;
+import co.edu.dmi.monk.ejemploclientechatandroid.Comunicacion;
+import co.edu.dmi.monk.ejemploclientechatandroid.Mensaje;
+import co.edu.dmi.monk.ejemploclientechatandroid.R;
 
 public class ActividadChat extends AppCompatActivity implements Observer {
 
@@ -42,6 +47,8 @@ public class ActividadChat extends AppCompatActivity implements Observer {
         lista.setAdapter(adaptadorElementos);
 
         Comunicacion.getInstance().addObserver(this);
+
+
 
         Button btnEnviarMensaje = (Button) findViewById(R.id.btn_enviar_mensaje_chat);
         btnEnviarMensaje.setOnClickListener(new View.OnClickListener() {

@@ -2150,7 +2150,7 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f01007b
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#background}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2160,7 +2160,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2172,7 +2172,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2184,7 +2184,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2200,7 +2200,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2216,7 +2216,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2232,7 +2232,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2248,7 +2248,7 @@ containing a value of this type.
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2258,7 +2258,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2280,7 +2280,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#divider}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2290,7 +2290,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#elevation}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2306,7 +2306,7 @@ containing a value of this type.
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#height}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2322,7 +2322,7 @@ containing a value of this type.
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2336,7 +2336,7 @@ containing a value of this type.
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2346,7 +2346,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2356,7 +2356,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#icon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2366,7 +2366,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2376,7 +2376,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2392,7 +2392,7 @@ containing a value of this type.
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#logo}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2402,7 +2402,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2420,7 +2420,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2430,7 +2430,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2446,7 +2446,7 @@ containing a value of this type.
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2456,7 +2456,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2470,7 +2470,7 @@ containing a value of this type.
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2480,7 +2480,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#title}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2494,7 +2494,7 @@ containing a value of this type.
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2571,7 +2571,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#background}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2581,7 +2581,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2593,7 +2593,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2603,7 +2603,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#height}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2619,7 +2619,7 @@ containing a value of this type.
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2629,7 +2629,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2654,7 +2654,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2664,7 +2664,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2708,7 +2708,7 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2718,7 +2718,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2728,7 +2728,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2738,7 +2738,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2748,7 +2748,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -2779,7 +2779,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -2813,7 +2813,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -2828,7 +2828,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -2876,7 +2876,7 @@ containing a value of this type.
             0x7f01002b, 0x7f01002c, 0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2892,7 +2892,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2908,7 +2908,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#barLength}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2924,7 +2924,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#color}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2939,7 +2939,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2955,7 +2955,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2971,7 +2971,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2985,7 +2985,7 @@ containing a value of this type.
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#thickness}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3062,7 +3062,7 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#divider}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3072,7 +3072,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3088,7 +3088,7 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3102,7 +3102,7 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3300,7 +3300,7 @@ containing a value of this type.
             0x7f010035
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3310,7 +3310,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3324,7 +3324,7 @@ containing a value of this type.
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3416,7 +3416,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -3506,7 +3506,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -3541,7 +3541,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -3568,7 +3568,7 @@ containing a value of this type.
             0x7f010038
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3655,7 +3655,7 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3665,7 +3665,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3675,7 +3675,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3689,7 +3689,7 @@ containing a value of this type.
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3699,7 +3699,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3713,7 +3713,7 @@ containing a value of this type.
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#layout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3723,7 +3723,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3733,7 +3733,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3747,7 +3747,7 @@ containing a value of this type.
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3757,7 +3757,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3767,7 +3767,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3777,7 +3777,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3787,7 +3787,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3834,7 +3834,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3895,7 +3895,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#showText}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3909,7 +3909,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3923,7 +3923,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3939,7 +3939,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3955,7 +3955,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3965,7 +3965,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3981,7 +3981,7 @@ containing a value of this type.
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#track}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4037,7 +4037,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
@@ -4301,7 +4301,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b3, 0x7f0100b4, 0x7f0100b5, 0x7f0100b6
         };
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4311,7 +4311,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4321,7 +4321,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4331,7 +4331,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4355,7 +4355,7 @@ containing a value of this type.
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4365,7 +4365,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4375,7 +4375,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4385,7 +4385,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4395,7 +4395,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4405,7 +4405,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4415,7 +4415,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4425,7 +4425,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4435,7 +4435,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4445,7 +4445,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4455,7 +4455,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4467,7 +4467,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4477,7 +4477,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4487,7 +4487,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4497,7 +4497,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4507,7 +4507,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4517,7 +4517,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4527,7 +4527,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4537,7 +4537,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4547,7 +4547,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4557,7 +4557,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4567,7 +4567,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4577,7 +4577,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4587,7 +4587,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4597,7 +4597,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4607,7 +4607,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4617,7 +4617,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4627,7 +4627,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4637,7 +4637,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_alertDialogButtonGroupStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4651,7 +4651,7 @@ containing a value of this type.
         */
         public static final int Theme_alertDialogCenterButtons = 92;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4661,7 +4661,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_alertDialogStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4683,7 +4683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4693,7 +4693,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_autoCompleteTextViewStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4703,7 +4703,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4713,7 +4713,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4723,7 +4723,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4733,7 +4733,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4743,7 +4743,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4753,7 +4753,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4763,7 +4763,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4773,7 +4773,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_buttonStyleSmall = 100;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4783,7 +4783,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_checkboxStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4793,7 +4793,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_checkedTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4808,7 +4808,7 @@ containing a value of this type.
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4823,7 +4823,7 @@ containing a value of this type.
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4838,7 +4838,7 @@ containing a value of this type.
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4853,7 +4853,7 @@ containing a value of this type.
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4868,7 +4868,7 @@ containing a value of this type.
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4883,7 +4883,7 @@ containing a value of this type.
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4898,7 +4898,7 @@ containing a value of this type.
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4913,7 +4913,7 @@ containing a value of this type.
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4923,7 +4923,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_controlBackground = 89;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4939,7 +4939,7 @@ containing a value of this type.
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4949,7 +4949,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4959,7 +4959,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4969,7 +4969,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4979,7 +4979,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4995,7 +4995,7 @@ containing a value of this type.
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5005,7 +5005,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5017,7 +5017,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5027,7 +5027,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_editTextStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5037,7 +5037,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5047,7 +5047,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5057,7 +5057,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5067,7 +5067,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5083,7 +5083,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5099,7 +5099,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5115,7 +5115,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5131,7 +5131,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5147,7 +5147,7 @@ containing a value of this type.
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5157,7 +5157,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5167,7 +5167,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5183,7 +5183,7 @@ containing a value of this type.
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5193,7 +5193,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5203,7 +5203,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5213,7 +5213,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_radioButtonStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5223,7 +5223,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_ratingBarStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5233,7 +5233,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5243,7 +5243,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5253,7 +5253,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5263,7 +5263,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5273,7 +5273,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_spinnerStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5283,7 +5283,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_switchStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5293,7 +5293,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5303,7 +5303,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5313,7 +5313,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5323,7 +5323,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5333,7 +5333,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5343,7 +5343,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5355,7 +5355,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textColorAlertDialogListItem = 94;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5367,7 +5367,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5377,7 +5377,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5387,7 +5387,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5401,7 +5401,7 @@ containing a value of this type.
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5415,7 +5415,7 @@ containing a value of this type.
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5429,7 +5429,7 @@ containing a value of this type.
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5448,7 +5448,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5467,7 +5467,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5486,7 +5486,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5505,7 +5505,7 @@ containing a value of this type.
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5524,7 +5524,7 @@ containing a value of this type.
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5543,7 +5543,7 @@ containing a value of this type.
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5636,7 +5636,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5650,7 +5650,7 @@ containing a value of this type.
         */
         public static final int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5660,7 +5660,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5676,7 +5676,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5692,7 +5692,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5708,7 +5708,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5724,7 +5724,7 @@ containing a value of this type.
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#logo}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5734,7 +5734,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5748,7 +5748,7 @@ containing a value of this type.
         */
         public static final int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5764,7 +5764,7 @@ containing a value of this type.
         */
         public static final int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5778,7 +5778,7 @@ containing a value of this type.
         */
         public static final int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5788,7 +5788,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5798,7 +5798,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5812,7 +5812,7 @@ containing a value of this type.
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5822,7 +5822,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5837,7 +5837,7 @@ containing a value of this type.
         */
         public static final int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#title}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5851,7 +5851,7 @@ containing a value of this type.
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5867,7 +5867,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5883,7 +5883,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5899,7 +5899,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5915,7 +5915,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5931,7 +5931,7 @@ containing a value of this type.
         */
         public static final int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5941,7 +5941,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -5990,7 +5990,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6006,7 +6006,7 @@ containing a value of this type.
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6022,7 +6022,7 @@ containing a value of this type.
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#theme}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6055,7 +6055,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6070,7 +6070,7 @@ containing a value of this type.
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploclientechatandroid.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link co.edu.dmi.monk.ejemploaplicacionlogin.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 

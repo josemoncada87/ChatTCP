@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploclientechatandroid;
+package co.edu.dmi.monk.ejemploclientechatandroid.actividades;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import co.edu.dmi.monk.ejemploclientechatandroid.R;
 
 public class ActividadMenuPrincipal extends AppCompatActivity {
 

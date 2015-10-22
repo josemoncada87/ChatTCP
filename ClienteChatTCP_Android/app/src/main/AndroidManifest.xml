@@ -11,19 +11,19 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.MainActivity" >
+        <activity android:name=".actividades.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadRegistro" >
+        <activity android:name=".actividades.ActividadRegistro" >
         </activity>
-        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadMenuPrincipal" />
-        <activity android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadConfiguracion" />
+        <activity android:name=".actividades.ActividadMenuPrincipal" />
+        <activity android:name=".actividades.ActividadConfiguracion" />
         <activity
-            android:name="co.edu.dmi.monk.ejemploclientechatandroid.ActividadChat"
+            android:name=".actividades.ActividadChat"
             android:label="@string/title_activity_actividad_chat" >
         </activity>
     </application>

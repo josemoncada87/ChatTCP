@@ -2,7 +2,7 @@
 manifest
 ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:3:5-53
+		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:3:5-56
 		INJECTED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml
 		INJECTED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -33,10 +33,10 @@ MERGED from [com.android.support:support-v4:23.0.1] D:\GitHubRepos\ChatTCP\Clien
 		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:10:9-43
 	android:theme
 		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:13:9-40
-activity#co.edu.dmi.monk.ejemploaplicacionlogin.MainActivity
+activity#co.edu.dmi.monk.ejemploclientechatandroid.actividades.MainActivity
 ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:14:19-59
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
@@ -47,24 +47,24 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:18:27-74
-activity#co.edu.dmi.monk.ejemploaplicacionlogin.ActividadRegistro
+activity#co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadRegistro
 ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:21:9-22:20
 	android:name
-		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:21:19-52
-activity#co.edu.dmi.monk.ejemploaplicacionlogin.ActividadMenuPrincipal
-ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:23:9-60
+		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:21:19-64
+activity#co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadMenuPrincipal
+ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:23:9-72
 	android:name
-		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:23:19-57
-activity#co.edu.dmi.monk.ejemploaplicacionlogin.ActividadConfiguracion
-ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:24:9-60
+		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:23:19-69
+activity#co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadConfiguracion
+ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:24:9-72
 	android:name
-		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:24:19-57
-activity#co.edu.dmi.monk.ejemploaplicacionlogin.ActividadChat
+		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:24:19-69
+activity#co.edu.dmi.monk.ejemploclientechatandroid.actividades.ActividadChat
 ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:25:9-28:20
 	android:label
 		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:27:13-66
 	android:name
-		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:26:13-42
+		ADDED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml:26:13-54
 uses-sdk
 INJECTED from D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.0.1] D:\GitHubRepos\ChatTCP\ClienteChatTCP_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43

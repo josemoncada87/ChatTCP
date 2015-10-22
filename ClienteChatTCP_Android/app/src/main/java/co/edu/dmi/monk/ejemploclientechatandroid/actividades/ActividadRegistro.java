@@ -1,4 +1,4 @@
-package co.edu.dmi.monk.ejemploclientechatandroid;
+package co.edu.dmi.monk.ejemploclientechatandroid.actividades;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -12,6 +12,9 @@ import android.widget.Toast;
 
 import java.util.Observable;
 import java.util.Observer;
+
+import co.edu.dmi.monk.ejemploclientechatandroid.Comunicacion;
+import co.edu.dmi.monk.ejemploclientechatandroid.R;
 
 public class ActividadRegistro extends AppCompatActivity implements Observer {
 
