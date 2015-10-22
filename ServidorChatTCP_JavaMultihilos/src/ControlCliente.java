@@ -10,11 +10,13 @@ public class ControlCliente extends Observable implements Runnable {
 	private Socket s;
 	private Observer jefe;
 	private boolean disponible;
+	private String nombre;
 
 	public ControlCliente(Socket s, Observer jefe) {
 		this.s = s;
 		this.jefe = jefe;
 		disponible = true;
+		nombre = "noName";
 		Thread t = new Thread(this);
 		t.start();
 	}
@@ -64,6 +66,14 @@ public class ControlCliente extends Observable implements Runnable {
 	@Override
 	public String toString() {	
 		return s.toString();
+	}
+
+	public void setUsuario(String nombre) {
+		this.nombre = nombre;		
+	}
+	
+	public String getNombre() {
+		return nombre;
 	}
 
 }
